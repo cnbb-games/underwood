@@ -1,12 +1,23 @@
-[id=4, type=area]
+[id=4, type=area, time-sensitive=true, append=true]
 = Cupola
 
 == Default Content
 
-Climbing the stairs seems to take longer than you expected, but once there yo
+Climbing the stairs seems to take longer than you expected, but once there you
 find yourself in a quiet, enclosed, and completely extraordinary space: the
-curved walls are entirely transparent, and beyond them unfolds a darkness
-populated with an endless array of moving constellations
+curved walls are entirely transparent, 
+
+== Day Content
+
+and through them you see an extraordinary about which you cannot make sense.
+The view is complex and wonderful, with movement everywhere (but of what you
+cannot tell). Everything seems connected to everything else, at least up unto
+the point where they fade into the gloom.
+
+== Night Content
+
+and beyond them unfolds a darkness populated with an endless array of moving
+constellations.
 
 == Exits
 
