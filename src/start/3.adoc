@@ -1,0 +1,17 @@
+[id=3, type=area]
+= Stairway
+
+== Default Content
+
+You are standing in an enclosed spiaral staircase. It is not light enough
+in here to see how far the staircase goes.
+
+== Exits
+
+* link:2.adoc[leave]
+* link:4.adoc[up]
+
+== Items
+
+
+== Media

@@ -1,0 +1,18 @@
+[id=4, type=area]
+= Cupola
+
+== Default Content
+
+Climbing the stairs seems to take longer than you expected, but once there yo
+find yourself in a quiet, enclosed, and completely extraordinary space: the
+curved walls are entirely transparent, and beyond them unfolds a darkness
+populated with an endless array of moving constellations
+
+== Exits
+
+* link:3.adoc[down]
+
+== Items
+
+
+== Media

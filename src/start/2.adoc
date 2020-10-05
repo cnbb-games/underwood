@@ -1,0 +1,20 @@
+[id=2, type=area]
+= The center of the room
+
+== Default Content
+
+You are standing in the center of the large MUSH Room. Given the low light, you
+cannot see to the edges of the room and can really only see clearly your
+immediate vicinity. There is a wide column here that seems to rise to the
+ceiling. There is a door in the column.
+
+
+== Exits
+
+* link:1.adoc[outwards]
+* link:3.adoc[enter]
+
+== Items
+
+
+== Media
