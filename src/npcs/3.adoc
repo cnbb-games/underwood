@@ -1,0 +1,6 @@
+[id=1, type=npc, role=builder]
+= Hyphay
+
+== Description
+
+== Media
