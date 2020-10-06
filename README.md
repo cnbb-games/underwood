@@ -11,5 +11,5 @@ The content in this repo is intended to be loaded and run in a Hexagram30 MUSH s
 
 Some portions of the game content may be previewed in Github:
 
-* [Start](src/start/1.adoc)
+* [Start](src/areas/start/1.adoc)
 

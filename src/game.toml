@@ -3,3 +3,4 @@ tagline = "The World under the Wood"
 description = "A mycologically-inspired fantasy-based, multi-user, interactive world-story read and played on a MUSH server"
 banner = "undirvithr.banner"
 game-typs = ["story", "pve", "rpg"]
+starting-area = "areas/start/1.adoc"
