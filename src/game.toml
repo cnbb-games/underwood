@@ -5,3 +5,45 @@ description = "A mycologically-inspired fantasy-based, multi-user, interactive w
 banner = "undirvithr.banner"
 game-typs = ["story", "pve", "rpg"]
 starting-area = "areas/start/1.adoc"
+has-factions = true
+
+[faction.birch]
+display-name =
+biome = "boreal waterways"
+attribute-bonus = ["", 1]
+resistance = ""
+feat =
+ally = 
+
+[faction.conifer]
+display-name = 
+biome = "boreal forest"
+attribute-bonus = ["intellect", 1]
+resistance = "cold"
+feat =
+ally = 
+
+[faction.hardwood]
+display-name =
+biome = "temperate forest"
+attribute-bonus = ["strength", 2]
+resistance = ""
+feat =
+ally = 
+
+[faction.lichen]
+display-name = "Hyperborea"
+biome = "tundra"
+attribute-bonus = ["endurance", 2]
+resistance = ""
+feat =
+ally = 
+
+[faction.rosa]
+display-name = "Hyperborea"
+biome = "tundra"
+attribute-bonus = ["health",]
+resistance = ""
+feat =
+ally = 
+
