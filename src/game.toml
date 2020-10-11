@@ -1,49 +1,62 @@
 id = "f08dd8c3-c1c2-32cb-802e-d5cd13a62e4f"
 display-name = "Undirviðr"
 tagline = "The World under the Wood"
-description = "A mycologically-inspired fantasy-based, multi-user, interactive world-story read and played on a MUSH server"
+description = "A mycologically-inspired, fantasy-based, interactive world-story -- read and played on a MUSH server"
 banner = "undirvithr.banner"
 game-typs = ["story", "pve", "rpg"]
-starting-area = "areas/start/1.adoc"
 has-factions = true
 
 [faction.birch]
-display-name =
+display-name = ""
+tree-partner = ""
+fungus-partner = ""
 biome = "boreal waterways"
 attribute-bonus = ["", 1]
 resistance = ""
 feat =
 ally = 
+starting-area = ""
 
-[faction.conifer]
-display-name = 
+[faction.connihyde]
+display-name = "Connihyde Eckii"
+tree-partner = "Connifers"
+fungus-partner = "Hydnellum peckii"
 biome = "boreal forest"
 attribute-bonus = ["intellect", 1]
-resistance = "cold"
+resistance = ["cold", "disease"]
 feat =
 ally = 
+starting-area = "areas/connihyde/start/1.adoc"
 
 [faction.hardwood]
-display-name =
+display-name = ""
+tree-partner = ""
+fungus-partner = ""
 biome = "temperate forest"
 attribute-bonus = ["strength", 2]
 resistance = ""
 feat =
 ally = 
+starting-area = ""
 
 [faction.lichen]
 display-name = "Hyperborea"
+tree-partner = ""
+fungus-partner = ""
 biome = "tundra"
 attribute-bonus = ["endurance", 2]
 resistance = ""
 feat =
 ally = 
+starting-area = ""
 
 [faction.rosa]
-display-name = "Hyperborea"
-biome = "tundra"
+display-name = ""
+tree-partner = ""
+fungus-partner = ""
+biome = ""
 attribute-bonus = ["health",]
 resistance = ""
 feat =
 ally = 
-
+starting-area = ""
